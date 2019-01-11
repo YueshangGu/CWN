@@ -1,2 +1,2 @@
-# WCN
-This is code of WCN operator implementation in caffe2
+# CWN
+This is code of CWN operator implementation in caffe2.
